@@ -21,7 +21,10 @@ dependencies: []
 repo: https://github.com/sunfounder/pironman5
 support: https://github.com/sunfounder/pironman5/issues
 port: 34001
-gallery: []
+gallery:
+  - "https://raw.githubusercontent.com/sunfounder/umbrel-community-app-store/main/sunfounder-pironman5/1.png"
+  - "https://raw.githubusercontent.com/sunfounder/umbrel-community-app-store/main/sunfounder-pironman5/2.png"
+  - "https://raw.githubusercontent.com/sunfounder/umbrel-community-app-store/main/sunfounder-pironman5/3.png"
 path: ""
 defaultUsername: ""
 defaultPassword: ""
