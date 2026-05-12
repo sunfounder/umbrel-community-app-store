@@ -2,6 +2,7 @@ manifestVersion: 1
 id: sunfounder-pironman5-max
 category: automation
 name: Pironman 5 Max
+icon: "https://raw.githubusercontent.com/sunfounder/umbrel-community-app-store/main/sunfounder-pironman5-max/icon.svg"
 version: "1.3.11"
 tagline: High-end aluminum case with dual NVMe, tower cooling, OLED & RGB for Pi 5
 description: |-
