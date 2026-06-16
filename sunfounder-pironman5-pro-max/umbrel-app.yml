@@ -1,0 +1,35 @@
+manifestVersion: 1
+id: sunfounder-pironman5-pro-max
+category: automation
+name: Pironman 5 Pro Max
+icon: "https://raw.githubusercontent.com/sunfounder/umbrel-community-app-store/main/sunfounder-pironman5-pro-max/icon.svg"
+version: "1.3.15"
+tagline: Premium aluminum case with WS2812 RGB, OLED, power button for Pi 5
+description: |-
+  Premium aluminum case for Raspberry Pi 5 with WS2812 addressable RGB LEDs, 0.96" OLED display, and metal power button with graceful shutdown.
+
+  Key features:
+  - 0.96" OLED display for real-time system monitoring
+  - WS2812 addressable RGB LEDs with programmable effects
+  - Metal power button with graceful shutdown on Pi 5
+  - PWM fan control with customizable temperature curves
+  - Web dashboard on port 34001
+  - Real-time data logging with InfluxDB
+developer: SunFounder
+website: https://github.com/sunfounder/pironman5
+dependencies: []
+repo: https://github.com/sunfounder/pironman5
+support: https://github.com/sunfounder/pironman5/issues
+port: 34001
+gallery:
+  - "https://raw.githubusercontent.com/sunfounder/umbrel-community-app-store/main/sunfounder-pironman5-pro-max/1.png"
+  - "https://raw.githubusercontent.com/sunfounder/umbrel-community-app-store/main/sunfounder-pironman5-pro-max/2.png"
+  - "https://raw.githubusercontent.com/sunfounder/umbrel-community-app-store/main/sunfounder-pironman5-pro-max/3.png"
+path: ""
+defaultUsername: ""
+defaultPassword: ""
+deterministicPassword: false
+torOnly: false
+submitter: SunFounder
+submission: ""
+releaseNotes: ""
